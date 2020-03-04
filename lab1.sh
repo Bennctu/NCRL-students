@@ -1,2 +1,2 @@
-sudo apt-get install ros-kinetic-ros-tutorias
+sudo apt-get install ros-kinetic-ros-tutorials
 
